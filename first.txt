@@ -2,3 +2,4 @@ This is first file and first line
 
 
 This line is from second person.
+this is conflict from second  person.
